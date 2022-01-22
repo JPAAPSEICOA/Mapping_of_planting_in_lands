@@ -1,0 +1,2 @@
+# Mapping_of_planting_in_lands
+El principal objetivo fue crear una herramienta que recibe como entradas: 1. La definición geométrica del predio a través de coordenadas de los vértices, 2. Orientación del cultivo y 3. Marco de plantación. En la salida se obtiene un archivo txt con las coordenadas UTM de los puntos de siembra y se muestran en pantalla. Además, se cuantifica el número de árboles, y en función del cultivo y emisor de riego se proporciona un estimado de tiempo de riego y cantidad de agua en demanda.
